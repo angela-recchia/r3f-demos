@@ -1,0 +1,43 @@
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[9].use[5]!./src/app/page.module.scss ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.page_main__akH3E {
+  padding: 2rem 5rem;
+}
+.page_main__akH3E h1 {
+  font-size: 5rem;
+  margin-bottom: 1rem;
+}
+.page_main__akH3E ul {
+  margin: 4rem 4rem;
+}
+
+.page_overlay__pj6ni {
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 600px;
+  height: 100%;
+  background-color: black;
+  color: white;
+  padding: 3rem;
+  overflow-y: auto;
+}
+.page_overlay__pj6ni p {
+  padding: 1rem 0;
+}
+.page_overlay__pj6ni img {
+  width: 100%;
+  padding: 1rem 0;
+}
+
+.page_item__E_GBt {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.page_item__E_GBt svg {
+  cursor: pointer;
+  width: 1.5rem;
+  height: 1.5rem;
+}

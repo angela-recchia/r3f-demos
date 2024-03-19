@@ -1,0 +1,45 @@
+.main {
+  padding: 2rem 5rem;
+
+  h1 {
+    font-size: 5rem;
+    margin-bottom: 1rem;
+  }
+
+  ul {
+    margin: 4rem 4rem;
+  }
+}
+
+.overlay {
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 600px;
+  height: 100%;
+  background-color: black;
+  color: white;
+  padding: 3rem;
+  overflow-y: auto;
+
+  p {
+    padding: 1rem 0;
+  }
+
+  img {
+    width: 100%;
+    padding: 1rem 0;
+  }
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+
+  svg {
+    cursor: pointer;
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+}
